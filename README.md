@@ -11,4 +11,4 @@ Daily practice log of problems solved across platforms.
 - Arrays
 - Stacks
 - Maps/Sets
-- 
+- Stone Game
